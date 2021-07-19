@@ -37,3 +37,9 @@
 ![image_name](https://github.com/PirateSuit/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ### The refactored 2018 results timer:
 ![image_name](https://github.com/PirateSuit/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+
+## Results
+
+### The advantages of refactoring code are clear in the length of time it took to deliver results. It is possible that with an even larger dataset that the refactored code would perform even better in comparison to the initial code that was written. 
+### The code itself may have been slightly more complex, but if this was something that would be run often it would clearly be worth the extra time put into writing it.
